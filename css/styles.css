@@ -23,7 +23,7 @@ a{
 }
 .nav-links {
   display: flex;
-  gap: 20px;
+  gap: 30px;
 }
 .intro {
   padding: 10px 100px;
@@ -32,7 +32,6 @@ a{
   align-items: center;
   /*background-image: url("../images/privatephoto.jpg");*/
 }
-.h
 .intro-content h1{
   color: #F9FAF8;
   font-size: 48px;
